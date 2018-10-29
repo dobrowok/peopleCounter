@@ -69,6 +69,7 @@ recomended to create a virtual enviroment - pip install virtualenv - in order
 to isolate the Cambus system from the SO). Please, install the following
 libraries:
 
+```bash
 pip install paho-mqtt
 
 pip install numpy
@@ -76,6 +77,7 @@ pip install numpy
 pip install opencv-python
 
 pip install twilio
+```
 
 Make sure if all libraries was installed and execute python CamBus_v1.py.
 For while are using a video not a camera itself. Some changes will be needed in
