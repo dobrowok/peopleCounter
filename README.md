@@ -1,3 +1,3 @@
 # peopleCounter
 
-https://contest.embarcados.com.br/wp-admin/post.php?post=6360
+https://contest.embarcados.com.br/projetos/iot-cam-ericsson/
