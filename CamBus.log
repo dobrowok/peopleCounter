@@ -1,0 +1,20 @@
+2018-10-28 21:03:32,181 - __main__ - INFO - Starting now: [2018-10-28 21:03:32.181876]
+2018-10-28 21:03:32,182 - __main__ - INFO - Last shutdown was: [2018-10-28 17:38:38.458715]
+2018-10-28 21:03:32,184 - __main__ - INFO - Sensors[Windows] successfully loaded
+2018-10-28 21:03:32,186 - __main__ - INFO - countFlag= None
+2018-10-28 21:03:32,187 - __main__ - INFO - Contador[Basic OpenCV] successfully loaded
+2018-10-28 21:03:32,193 - __main__ - INFO - MQtt[Windows] successfully loaded
+2018-10-28 21:03:32,194 - __main__ - INFO - CamBus[Windows] successfully started for Python 3.7
+2018-10-28 21:03:32,196 - __main__ - INFO - PID=  6468
+2018-10-28 21:03:32,197 - __main__ - INFO - ID=   0x80000b748d39
+2018-10-28 21:03:32,199 - __main__ - INFO - mq=   aws
+2018-10-28 21:03:32,201 - __main__ - INFO - MainThread= <_MainThread(MainThread, started 12868)>
+2018-10-28 21:03:34,037 - __main__ - INFO - Subscribed to [aws/command/#]
+2018-10-28 21:03:34,040 - __main__ - INFO - Subscribed to [aws/file/#]
+2018-10-28 21:03:35,084 - __main__ - INFO - publishDweet(dweet.io, {"state": {"reported": {"BUS": {"Na  ...})
+2018-10-28 21:03:35,088 - __main__ - INFO - MQTTThread= <Thread(Thread-1, started daemon 13092)>
+2018-10-28 21:03:35,088 - __main__ - INFO - CounterThread= <Thread(Thread-2, started daemon 9372)>
+2018-10-28 21:03:35,089 - __main__ - INFO - MQTT connected to [a3k400xgjmh5lk.iot.us-east-2.amazonaws.com:8883]
+2018-10-28 21:03:50,899 - __main__ - INFO - publishDweet(dweet.io, {"state": {"reported": {"BUS": {"Na  ...})
+2018-10-28 21:03:51,948 - __main__ - INFO - Finishing due to CTR+C
+2018-10-28 21:03:52,816 - __main__ - INFO - publishDweet(dweet.io, {"state": {"reported": {"BUS": {"Na  ...})
